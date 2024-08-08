@@ -1,5 +1,4 @@
-# requirements.text
-python --version
+# requirements.txt
 streamlit
 snowflake-connector-python
 snowflake-snowpark-python
