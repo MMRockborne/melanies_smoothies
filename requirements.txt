@@ -1,6 +1,5 @@
 # requirements.text
-Python ==3.8.*
-streamlit
+streamlit=
 snowflake-connector-python
 snowflake-snowpark-python
 
