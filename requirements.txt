@@ -1,7 +1,5 @@
 # requirements.txt
-# Assuming Python 3.8 is installed
-python3.8 -m venv venv
-source venv/bin/activate
+
 snowflake-connector-python==3.0.0
 snowflake-snowpark-python==1.2.0
 streamlit==1.12.0
