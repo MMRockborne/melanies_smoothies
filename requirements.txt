@@ -1,5 +1,6 @@
 # requirements.text
-streamlit=
+upgrade pip
+streamlit
 snowflake-connector-python
 snowflake-snowpark-python
 
